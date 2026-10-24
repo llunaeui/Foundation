@@ -1,7 +1,3 @@
----
-tags:
-  - Anatomy
----
 - *It surrounds and protect* the **spinal cord**
 - The total number of vertebrae ranges from **33 to 34**
 
@@ -16,5 +12,3 @@ tags:
 	5 vertebrae
 #### **Coccygeal vertebrae**
 	4-5 vertebrae
-
-

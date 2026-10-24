@@ -1,7 +1,3 @@
----
-tags:
-  - Anatomy
----
 - *Connected using **ligaments***
 - *Consists of 22 bones which connect over time* by endochondral **ossification**
 
